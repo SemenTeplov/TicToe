@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic-Toe</string>
+    <string name="name_game">Tic-Toe</string>
+    <string name="player">Player</string>
+    <string name="computer_easy">Computer Easy</string>
+    <string name="computer_hard">Computer Hard</string>
+    <string name="back">Back</string>
+    <string name="you_loze">You Loze</string>
+    <string name="you_win">You Win</string>
+</resources>
